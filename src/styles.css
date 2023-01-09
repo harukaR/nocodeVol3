@@ -1,0 +1,34 @@
+.App {
+  font-family: sans-serif;
+}
+.font-weight {
+  font-weight: bold;
+}
+.font-normal {
+  font-weight: normal;
+}
+.text-center {
+  text-align: center;
+  display: block;
+}
+.color {
+  color: red;
+}
+.font-style {
+  font-style: italic;
+}
+.text-decoration {
+  text-decoration: underline;
+}
+.background-color {
+  background-color: red;
+}
+.line-height {
+  line-height: 2;
+}
+.letter-spacing {
+  letter-spacing: 2px;
+}
+.writing-mode {
+  writing-mode: vertical-lr;
+}
